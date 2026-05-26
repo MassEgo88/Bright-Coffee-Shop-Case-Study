@@ -1,5 +1,5 @@
 # Bright-Coffee-Shop-Case-Study
-This is where i as a Junior Data Analyst will be looking at the insights and analysing the sales of the business.
+This is where i will be looking at the insights and analysing the sales of the business.
 
 Project Overview
 
@@ -36,6 +36,14 @@ o	Processed data stored in Databricks tables
 o	Exported to Excel 
 o	Charts and dashboards created for insights 
 ________________________________________
+
+## Live Dashboard / Project Demo
+
+This interactive dashboard was built using Lovable to visualize sales trends, revenue performance, customer behavior, and product insights for Bright Coffee Shop.
+
+🔗 [Open Interactive Dashboard](https://dash-story-forge.lovable.app)
+
+
 
 Key Insights
 
